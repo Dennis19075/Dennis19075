@@ -1,5 +1,5 @@
 - 👁 Hallo, Ich bin Dennis.
-- 👀 I’m interested in AI. I have good knowledge of RAG systems and Azure Cloud.
+- 👀 I’m interested in AI. I have good knowledge of RAG systems, GenAI, Azure and AWS Cloud.
 - 🌱 I’m currently enhancing my Python skills!
 - 👽 I’m looking to collaborate and change the use of technology in this world.
 - 📫 How to reach me https://www.linkedin.com/in/dennis-chicaiza-0a65b3126
